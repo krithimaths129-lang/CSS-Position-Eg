@@ -1,0 +1,31 @@
+
+.one{
+    position: relative;
+    z-index: 5;
+    top: 70px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    height: 200px;
+    width: 200px;
+}
+.two{
+    display:inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 50px;
+    background-color: greenyellow;
+    color: blue;
+    z-index: 3;
+    top: 10px;
+}
+h1{
+    text-align: right;
+}
+p{
+    text-align: justify;
+}
